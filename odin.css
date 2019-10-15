@@ -9,8 +9,8 @@ body{background-image: url("imagenes/fondo.jpg");
         line-height: 10px;
 }
 
-.menu li a {color: #000000;
-            background-color: #FFFFFF;
+.menu li a {color: white;
+            background-color: grey;
             font-family: "Roboto";
             font-size: 18px;
             text-decoration: none;
